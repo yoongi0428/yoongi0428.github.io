@@ -1,11 +1,13 @@
 ---
-title: "[SIGIR 2020] How Dataset Characteristics Affect the Robustness of Collaborative Recommendation Models"
+title: "Popular Accuracy Measures in Top-k Recommendation"
 author: yoonkij
-date: 2020-11-04 09:00:00 +0800
-categories: [Research, Paper Review]
+date: 2020-11-03 09:00:00 +0900
+categories: [Research, Experiments]
 tags: [recsys, evaluation]
 render_with_liquid: true
 ---
+
+(2020/11/03 작성)
 
 ### Introduction
 
