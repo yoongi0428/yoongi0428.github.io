@@ -1,7 +1,7 @@
 ---
 title: "[KDD 2020] Joint Policy-Value Learning for Recommendation"
 author: yoonkij
-date: 2020-08-31 09:00:00 +0800
+date: 2020-08-31 09:00:00 +0900
 categories: [Research, Paper Review]
 tags: [kdd, recsys, bandit, evaluation]
 render_with_liquid: true

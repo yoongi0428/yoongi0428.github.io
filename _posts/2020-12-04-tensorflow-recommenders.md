@@ -1,7 +1,7 @@
 ---
 title: Interesting Points form TensorFlow Recommenders (TFRS)
 author: yoonkij
-date: 2020-12-04 09:00:00 +0800
+date: 2020-12-04 09:00:00 +0900
 categories: [Dev, Tensorflow]
 tags: [recsys, tensorflow]
 render_with_liquid: true

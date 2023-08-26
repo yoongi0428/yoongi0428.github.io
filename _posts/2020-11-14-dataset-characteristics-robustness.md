@@ -1,7 +1,7 @@
 ---
 title: "[SIGIR 2020] How Dataset Characteristics Affect the Robustness of Collaborative Recommendation Models"
 author: yoonkij
-date: 2020-11-14 09:00:00 +0800
+date: 2020-11-14 09:00:00 +0900
 categories: [Research, Paper Review]
 tags: [iclr, recsys, gnn]
 render_with_liquid: true

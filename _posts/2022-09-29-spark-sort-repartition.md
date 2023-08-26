@@ -1,7 +1,7 @@
 ---
 title: "[Spark] sort 후 repartition하니 정렬이 풀려요"
 author: yoonkij
-date: 2022-09-29 09:00:00 +0800
+date: 2022-09-29 09:00:00 +0900
 categories: [Dev, Data]
 tags: [spark]
 render_with_liquid: true

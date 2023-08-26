@@ -1,7 +1,7 @@
 ---
 title: neptune.ai를 활용하여 실험 관리하기
 author: yoonkij
-date: 2020-10-01 09:00:00 +0800
+date: 2020-10-01 09:00:00 +0900
 categories: [Dev, Experiments]
 tags: [neptune-ai, experiment]
 render_with_liquid: true

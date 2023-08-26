@@ -1,7 +1,7 @@
 ---
 title: "추천 모델 학습에 따른 Top-k 예측 시각화"
 author: yoonkij
-date: 2020-10-24 09:00:00 +0800
+date: 2020-10-24 09:00:00 +0900
 categories: [Research, RecSys]
 tags: [recsys, visualization]
 render_with_liquid: true

@@ -1,7 +1,7 @@
 ---
 title: "[ICLR 2020] Inductive Matrix Completion based on Graph Neural Networks"
 author: yoonkij
-date: 2020-01-18 09:00:00 +0800
+date: 2020-01-18 09:00:00 +0900
 categories: [Research, Paper Review]
 tags: [iclr, recsys, gnn]
 render_with_liquid: true

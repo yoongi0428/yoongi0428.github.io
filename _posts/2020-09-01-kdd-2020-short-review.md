@@ -1,7 +1,7 @@
 ---
 title: "[KDD 2020] Short reviews on 5 Papers of interests"
 author: yoonkij
-date: 2020-09-01 09:00:00 +0800
+date: 2020-09-01 09:00:00 +0900
 categories: [Research, Paper Review]
 tags: [kdd, recsys]
 render_with_liquid: true

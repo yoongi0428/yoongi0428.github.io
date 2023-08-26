@@ -1,7 +1,7 @@
 ---
 title: Writing a New Post
 author: cotes
-date: 2099-08-01 14:10:00 +0800
+date: 2099-08-01 14:10:00 +0900
 categories: [Blogging, Tutorial]
 tags: [writing]
 pin: true
