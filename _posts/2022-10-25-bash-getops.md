@@ -1,5 +1,5 @@
 ---
-title: "[BASH] getopts"
+title: "[Bash] getopts"
 author: yoonkij
 date: 2022-10-25 09:00:00 +0900
 categories: [Dev, Bash]
