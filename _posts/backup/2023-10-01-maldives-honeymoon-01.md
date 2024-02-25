@@ -1,7 +1,7 @@
 ---
 title: "[몰디브리조트학과] 01 - 입학 & 수료"
 author: yoonkij
-date: 2023-10-01 09:00:00 +0900
+date: 2099-10-01 09:00:00 +0900
 categories: [Life, Travel]
 tags: [travel, honeymoon, maldives]
 render_with_liquid: true

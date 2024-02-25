@@ -1,7 +1,7 @@
 ---
 title: "[몰디브리조트학과] 02 - 졸업논문: 나의 몰디브 리조트 선택기"
 author: yoonkij
-date: 2023-11-04 18:00:00 +0900
+date: 2099-11-04 18:00:00 +0900
 categories: [Life, Travel]
 tags: [travel, honeymoon, maldives]
 render_with_liquid: true
